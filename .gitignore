@@ -1,0 +1,5 @@
+*.zip
+*.rar
+
+/1_introduction/Introduction/nbproject/private/
+/1_introduction/Introduction/build/
